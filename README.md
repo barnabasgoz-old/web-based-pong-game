@@ -1,1 +1,1 @@
-# web-based-pong-game
+# pong-gb.github.io
